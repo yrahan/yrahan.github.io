@@ -4,9 +4,6 @@ You can visit some of my studies below :
 
 - [Uber data analysis project.](https://nbviewer.jupyter.org/github/yrahan/uber/blob/master/Uber%20Data%20Analysis%20Project.ipynb)
 
-<img src="https://en.wikipedia.org/wiki/Uber#/media/File:Uber_logo_2018.svg" alt="Uber logo"
-	title="Uber logo" width="150" height="100" />
-
 
 You can use the [editor on GitHub](https://github.com/yrahan/yrahan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
