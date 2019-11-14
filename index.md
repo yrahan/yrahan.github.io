@@ -3,6 +3,7 @@
 You can visit some of my studies below :
 
 - [Uber data analysis project.](https://nbviewer.jupyter.org/github/yrahan/uber/blob/master/Uber%20Data%20Analysis%20Project.ipynb)
+[Image](https://en.wikipedia.org/wiki/Uber#/media/File:Uber_logo_2018.svg)
 
 
 You can use the [editor on GitHub](https://github.com/yrahan/yrahan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
